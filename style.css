@@ -1,0 +1,47 @@
+.crap {
+    background-color: teal;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    border-style: double;
+    border-width: 10px;
+    border-color: white;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+button {
+    align-items: center;
+    font-size: xx-large;
+    color: white;
+    background-color: transparent;
+    text-align: center;
+    border: 2px dashed white;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+button:hover {
+    background-color: white;
+    color: #008080;
+}
+
+body {
+    background-color: #008080cc;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
